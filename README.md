@@ -10,3 +10,4 @@ clock.orderFront
   * Font
   * Position
   * Date style
+  * Place in all spaces
